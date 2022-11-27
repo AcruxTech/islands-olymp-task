@@ -12,4 +12,4 @@ field = Field(n, values)
 
 for x in range(field.size):
     for y in range(field.size):
-        
+        pass
